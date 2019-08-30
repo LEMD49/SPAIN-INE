@@ -7,7 +7,7 @@ Steps to download official stats data from Spain's INE for house rental and insu
 // In the following 3 examples we see the rental increase case, and insurance premium cases.
 // Date started: 20190830
 
-##For housing rental 
+## For housing rental 
 
 1. Goto INE.es
 2. Select 02 INEbase
@@ -23,7 +23,7 @@ Steps to download official stats data from Spain's INE for house rental and insu
 
 
 
-##For Medical Insurance
+## For Medical Insurance
 1. Goto INE.es
 2. Select 02 INEbase
 3. Select Nivel y condiciones de vida
@@ -37,7 +37,7 @@ Steps to download official stats data from Spain's INE for house rental and insu
 12. Print
 
 
-##For House insurance
+## For House insurance
 1. Goto INE.es
 2. Select 02 INEbase
 3. Select Nivel y condiciones de vida
