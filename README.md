@@ -1,11 +1,14 @@
 # SPAIN-INE
 Steps to download official stats data from Spain's INE for house rental and insurances
+
+<!--
 //written by Etienne Maricq
 //maricq@ieee.org
 // All rights reserved © 2019
 // Quick reference - cheat sheet - on steps to consult the state oficial statistics por CPI
 // In the following 3 examples we see the rental increase case, and insurance premium cases.
 // Date started: 20190830
+-->
 
 ## For housing rental 
 
