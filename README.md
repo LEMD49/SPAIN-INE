@@ -21,30 +21,37 @@ Steps to download official stats data from Spain's INE for house rental and insu
 7. Click button CONSULTAR SELECCION
 8. Print table
 
+## For Housing Insurance
+
+1. Goto INE.es
+2. Select IPC en 1 clic
+3. Select IPC en INEbase
+4. Select Indices nacionales de subclases
+5. Select 12520 or Seguros relacionados con la vivienda
+6. Choose variacion anual, period
+7. Click button CONSULTAR SELECCION
+8. Print table
+
 ## For Medical Insurance
-1. Goto INE.es
-2. Select 02 INEbase
-3. Select Nivel y condiciones de vida
-4. Select Indice de precios de consumo y vivienda
-5. Linea Indice de Precios de consumo, clic "informacion detallada"
-6. Click resultados
-8. Select Resultados nacionales
-9. Select Indices nacionales
-10. Select 1.3 Indices nacionales de clases
-11. Select Clases "1253 Seguros relacionados con la salud", variacion anual, periodo
-12. Print
 
-
-## For House insurance
 1. Goto INE.es
-2. Select 02 INEbase
-3. Select Nivel y condiciones de vida
-4. Select Indice de precios de consumo y vivienda
-5. Linea Indice de Precios de consumo, clic "informacion detallada"
-6. Click resultados
-8. Select Resultados nacionales
-9. Select Indices nacionales
-10. Select 1.3 Indices nacionales de clases
-11. Select Clases "1252 Seguros relacionados con la vivienda", variacion anual, periodo
-12. Print
+2. Select IPC en 1 clic
+3. Select IPC en INEbase
+4. Select Indices nacionales de subclases
+5. Select 12532 or Seguros relacionados con la salud
+6. Choose variacion anual, period
+7. Click button CONSULTAR SELECCION
+8. Print table
+
+## For Car Insurance
+
+1. Goto INE.es
+2. Select IPC en 1 clic
+3. Select IPC en INEbase
+4. Select Indices nacionales de subclases
+5. Select 12541 or Seguros de vehiculos a motor
+6. Choose variacion anual, period
+7. Click button CONSULTAR SELECCION
+8. Print table
+
 
