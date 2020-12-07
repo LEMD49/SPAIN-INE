@@ -13,18 +13,13 @@ Steps to download official stats data from Spain's INE for house rental and insu
 ## For housing rental 
 
 1. Goto INE.es
-2. Select 02 INEbase
-3. Select Nivel y condiciones de vida
-4. Select Indice de precios de consumo y vivienda
-5. Linea Indice de Precios de consumo, clic "informacion detallada"
-6. Click resultados
-8. Select Resultados nacionales
-9. Select Indices nacionales
-10. Select 1.5 Indices nacionales de rubricas
-11. Select "Vivienda en Alquiler", variacion anual, periodo
-12. Print
-
-
+2. Select IPC en 1 clic
+3. Select IPC en INEbase
+4. Select Indices nacionales de subclases
+5. Select 04110 or Alquiler de vivienda principal
+6. Choose variacion anual, period
+7. Click button CONSULTAR SELECCION
+8. Print table
 
 ## For Medical Insurance
 1. Goto INE.es
